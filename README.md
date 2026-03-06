@@ -46,7 +46,3 @@
 4. **Seasonality:** Peak months (January, Q3) should be targeted for marketing campaigns.
 > **Key Recommendation:** Combine **demand forecasting** (Random Forest) with **feature impact analysis** (Linear Regression) to guide inventory, pricing, and promotions for maximizing Amazon revenue.
 
-
-
-from IPython.display import display, Markdown
-display(Markdown(report))
